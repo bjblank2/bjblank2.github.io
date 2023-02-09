@@ -8,4 +8,4 @@
 ## Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Chicago / DOE Alliance Center
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![Another Image](https://bjblank2.github.io/assets/phase_diag.png)
+![Another Image](bjblank2.github.io/assets/phase_diag.png)
