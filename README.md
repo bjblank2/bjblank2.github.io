@@ -9,4 +9,7 @@ Hello and thanks for stoping by my poster. If you scanned poster's QR code to ge
 <p align="center">
   <img src="docs/assets/phase_diag.png" width="50%" height="50%"/>
 </p>
+
+This is a phase diagram compiled from literature
+
 ![thanks](docs/assets/thanks.png)
