@@ -4,6 +4,8 @@
 
 # The largest heading
 ## SSAP 2023
-###### Presentor: Brian Blankenau 
+## Presentor: Brian Blankenau 
+## Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Chicago / DOE Alliance Center
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-https://bjblank2.github.io/assets/SSAP2023.pdf
+![Another Image](https://bjblank2.github.io/assets/phase_diag.png)
