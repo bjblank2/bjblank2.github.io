@@ -7,5 +7,4 @@
 ## Presentor: Brian Blankenau 
 ## Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Chicago / DOE Alliance Center
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![Another Image](docs/assets/phase_diag.png)
+![phase diagram](docs/assets/phase_diag.png)
