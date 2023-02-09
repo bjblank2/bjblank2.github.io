@@ -6,4 +6,4 @@
 ## SSAP 2023
 ###### Presentor: Brian Blankenau 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-https://bjblank2.github.io/assets/SSAP2023.pdf
+[Check out the poster](https://bjblank2.github.io/assets/SSAP2023.pdf)
