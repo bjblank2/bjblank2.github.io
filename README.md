@@ -11,5 +11,6 @@ Hello and thanks for stoping by my poster. If you scanned poster's QR code to ge
 </p>
 
 This is a phase diagram compiled from literature
+If you have any questions, I would be happy to answer them durring the poster session (I should be here the whole time) or reach out to me via email at bjblank2@illinois.edu.
 
 ![thanks](docs/assets/thanks.png)
