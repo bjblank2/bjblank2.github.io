@@ -4,5 +4,6 @@
 ## Presentor: Brian Blankenau 
 ## Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Chicago / DOE Alliance Center
 Hello and thanks for stoping by my poster. If you scanned poster's QR code to get here its probably because I am away at the moment; so I created this website to walk you threw my reserch. 
-![phase diagram](docs/assets/phase_diag.png =200x200)
+![phase diagram](docs/assets/phase_diag.png)
+<img src="docs/assets/phase_diag.png" width="50%" height="50%" />
 ![thanks](docs/assets/thanks.png)
