@@ -11,4 +11,5 @@ If you have any questions, I would be happy to answer them during the poster ses
   <img src="docs/assets/phase_diag.png" width="50%" height="50%"/>
 </p>
 
+Phase Diagram for NiMn50-xInx
 ![thanks](docs/assets/thanks.png)
